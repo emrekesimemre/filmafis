@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    border: 3px solid rgb(45, 45, 53);
+    width: 800px;
+    max-height: 400px;
+    margin: auto;
+    margin-top: 80px;
+}
+div{
+    background-image: url(netflixpng.png);
+    background-position-y: 40px;
+    background-position-x: 140px;
+    
+}
+#img{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    bottom: 60px;
+    border-radius: 20px;
+}
+#title{
+    width: 400px;
+    margin: auto;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    color: rgb(207, 9, 31);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    
+
+}
+
+#explanation{
+    width: 300px;
+    margin: auto;
+    position: relative;
+    left: 150px;
+    top: 50px;
+    color: gray;
+    
+    
+    
+}
